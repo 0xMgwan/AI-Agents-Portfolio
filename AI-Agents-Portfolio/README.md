@@ -89,22 +89,22 @@ python blockchain_agent.py
 ### Contributing
 We welcome contributions to improve and expand the functionality of this repository. Here’s how you can get started:
 
-1. Fork the repository
-2. Fork this repository to your GitHub account to create a copy.
+1. Fork the repository.
+Fork this repository to your GitHub account to create a copy.
 
-3. Create a new branch
+2. Create a new branch.
 It’s a good practice to create a new branch for your feature or bug fix. You can do this by running:
 
 ```bash
 git checkout -b your-feature-branch
 ```
-4. Make changes
+3. Make changes.
 Make your desired changes or additions to the codebase. Ensure that you follow the code style used in the project, and comment your code where necessary.
 
-5. Write tests
+4. Write tests.
 We encourage writing tests for any new functionality or bug fixes. This helps ensure the stability of the project.
 
-6. Commit changes
+5. Commit changes.
 Once your changes are ready, commit them to your branch:
 
 ```bash
@@ -112,14 +112,14 @@ git add .
 git commit -m "Add feature/bugfix"
 ```
 
-7. Push changes to GitHub
+6. Push changes to GitHub.
 Push your changes to your forked repository:
 
 ```bash
 git push origin your-feature-branch
 ```
 
-8. Submit a pull request
+7. Submit a pull request.
 After pushing your changes, navigate to the original repository and open a pull request from your forked repository.
 
 Please make sure to:
